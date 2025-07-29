@@ -1,1 +1,22 @@
 
+{
+  "popunder-1": {
+    "status": "on",
+    "url": "https://your-popunder-url.com"
+  },
+  "iframe": {
+    "status": "on",
+    "url": "https://your-iframe-url.com"
+  },
+  "video-internal-ad": {
+    "status": "on",
+    "url": "https://your-video-url.com/video.mp4"
+  },
+  "banner": {
+    "status": "on",
+    "url": "https://your-banner-url.com/banner.jpg"
+  },
+  "block": {
+    "countries": ["BD"]
+  }
+}
